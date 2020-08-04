@@ -2343,6 +2343,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	z-index:1000;
 }
 
+padding-top: 145px !important
 .rtcConnectionStatus-2-jIsi {
 	padding:0;
 }
